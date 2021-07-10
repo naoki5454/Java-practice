@@ -62,13 +62,13 @@
 //     System.out.println("偶数の和は" + evenSum + "です");
 //   }
 // }
-class Main {
-  public static void main(String[] args) {
-    hello();
-  }
+// class Main {
+//   public static void main(String[] args) {
+//     hello();
+//   }
   
-  public static void hello() {
-    // "Hello World"を、"Hello Java"に書き換えてください
-    System.out.println("Hello Java");
-  }
-}
+//   public static void hello() {
+//     // "Hello World"を、"Hello Java"に書き換えてください
+//     System.out.println("Hello Java");
+//   }
+// }
